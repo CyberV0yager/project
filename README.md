@@ -41,6 +41,7 @@ int main() {
     for (const auto& url : urls) {
         scanURL(url);
     }
+    
 
     return 0;
 }
